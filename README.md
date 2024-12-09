@@ -1,5 +1,6 @@
 # jenkins-task
-jenkins project and users creation
+jenkins project and users creation   and git hub lib https://github.com/ranju386/jenkins-practice
+
 ![create jenkins](https://github.com/ranju386/jenkins-task/blob/main/oct-devops-24-dc-jenkins.jpg)
 ![jenkins up](https://github.com/ranju386/jenkins-task/blob/main/oct-devops-24-dc-jenkins-up.jpg)
 ![login](https://github.com/ranju386/jenkins-task/blob/main/oct-devops-24-dc-jenkins-login.jpg)
